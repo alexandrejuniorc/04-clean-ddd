@@ -19,6 +19,8 @@
   "homepage": "https://github.com/alexandrejuniorc/04-clean-ddd#readme",
   "devDependencies": {
     "@types/node": "^20.1.0",
-    "typescript": "^5.0.4"
+    "typescript": "^5.0.4",
+    "vite-tsconfig-paths": "^4.2.0",
+    "vitest": "^0.31.0"
   }
 }
